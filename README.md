@@ -1,1 +1,1 @@
-##lorem ipsum generator! react.js project
+#lorem-ipsum generator! react.js project
